@@ -85,6 +85,7 @@ def load_model(path_to_model:str):
 
 def make_prediction(data, model):
     """Prepare request data for model prediciton.
+    make comprehensive
 
     Parameters
     ----------
